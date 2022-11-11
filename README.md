@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tflores
 - 👀 I’m interested in Data Science, GeoAnalytics, Big Data, and Analytics.
 - 🌱 I’m currently learning GeoAnalytics and Geoprocessing.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   -  https://www.linkedin.com/in/tiagoflores/
   -  tiago.flores@yahoo.com.br 
